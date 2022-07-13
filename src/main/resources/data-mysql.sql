@@ -1,0 +1,1 @@
+INSERT INTO `lmsquiz` (`id`, `date_creation`, `description`, `published`, `temps_quiz`) VALUES (NULL, '2022-07-13 14:04:35.000000', 'dsffds', b'0', '5');
